@@ -2,6 +2,7 @@
 
 # compiled output
 /dist
+/obj
 /tmp
 /out-tsc
 **/testresults/
